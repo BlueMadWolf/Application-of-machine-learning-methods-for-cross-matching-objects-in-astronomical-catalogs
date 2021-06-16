@@ -1,6 +1,6 @@
 # Application-of-machine-learning-methods-for-cross-matching-objects-in-astronomical-catalogs
 
-В данном репозитории расположен код примеров экспериментов (не всех) для задачи кросс-идентификации наблюдений к объектам астрономических каталогов, а также кросс-сопоставления объектов нескольких каталогов между собой
+В данном репозитории расположен черновой код примеров экспериментов (не всех) для задачи кросс-идентификации наблюдений к объектам астрономических каталогов, а также кросс-сопоставления объектов нескольких каталогов между собой
 
 ## Данные
 
@@ -18,7 +18,6 @@ Gaia_script_additional - решение задачи кросс-идентифи
 
 Каталог1 x Каталог2 - файлы сопоставления объектов астрономических каталогов *(черновики примеров каждого из случаев)*
 
-Важно: не везде выведены результаты работы.
 
 ### Acknowledgement
 This work has made use of data from the European Space Agency (ESA) mission Gaia (https://www.cosmos.esa.int/gaia), processed by the Gaia Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the Gaia Multilateral Agreement.
