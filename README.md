@@ -17,3 +17,6 @@ Gaia_script, PLAsTiCC_script - примеры применения машинн�
 Gaia_script_additional - решение задачи кросс-идентификации наблюдений из некоторой области, включая нераспознанные наблюдения, для Gaia.
 
 Каталог1 x Каталог2 - файлы сопоставления объектов астрономических каталогов
+
+### Acknowledgement
+This work has made use of data from the European Space Agency (ESA) mission Gaia (https://www.cosmos.esa.int/gaia), processed by the Gaia Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the Gaia Multilateral Agreement.
